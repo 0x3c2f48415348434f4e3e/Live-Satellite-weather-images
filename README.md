@@ -52,4 +52,6 @@ the spectrum is taken as a function of frequenct or of wavelength
 This is the enery of electromagnetic and gravational radiation
 [https://en.wikipedia.org/wiki/Radiant_energy](research)
 
-
+# TO DO
+- [x] Build System
+- [x] Automatically save data intercepted
